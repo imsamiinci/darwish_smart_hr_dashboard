@@ -3,10 +3,10 @@ This dashboard was designed for human resources department of the companies. You
 
 <h2>Running Conditions:</h2>
 You can run the project when your system provide:
-Android Studio
-Flutter
-Git
-Last Version of SDK packages
+Android Studio,
+Flutter,
+Git,
+Last Version of SDK packages.
 
 <h2>Step By Step Running:</h2>
 <br />
